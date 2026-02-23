@@ -1,15 +1,13 @@
 # 🚀 Free Premium Minecraft Plugins
 Updated for 2026
 
-============================================================
+==========================================
 
 📦 AVAILABLE PLUGINS
 
-============================================================
+==========================================
 
-======================
 Model Engine
-======================
 
 <img width="1800" height="795" alt="image" src="https://github.com/user-attachments/assets/ae6b9f15-c179-4f0c-bd95-67a68ecacd94" />
 
@@ -26,9 +24,7 @@ https://gleaks.pro/resources/model-engine-ultimate-entity-model-manager-1-19-4-1
 
 ------------------------------------------------------------
 
-======================
 ItemsAdder
-======================
 
 <img width="854" height="806" alt="image" src="https://github.com/user-attachments/assets/1d968d84-cdf9-4cea-8e6b-09e25200a8ad" />
 
@@ -45,9 +41,7 @@ https://gleaks.pro/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-
 
 ------------------------------------------------------------
 
-======================
 Vulcan Anti-Cheat
-======================
 
 <img width="929" height="321" alt="image" src="https://github.com/user-attachments/assets/00efa9cb-d2b4-4779-94b3-51def2bd2af6" />
 
@@ -64,9 +58,7 @@ https://gleaks.pro/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-21
 
 ------------------------------------------------------------
 
-======================
 BattlePass
-======================
 
 <img width="850" height="213" alt="image" src="https://github.com/user-attachments/assets/db00b5b6-723b-43bb-9065-c6bd8ecbcce0" />
 
@@ -83,9 +75,7 @@ https://gleaks.pro/resources/1-17-1-21-1-battlepass-50-quests-with-unlimited-cus
 
 ------------------------------------------------------------
 
-======================
 Citizens
-======================
 
 <img width="333" height="186" alt="image" src="https://github.com/user-attachments/assets/c85b7e8f-c68c-4f49-a175-ef4b524cbe93" />
 
@@ -102,9 +92,7 @@ https://gleaks.pro/resources/citizens.26/
 
 ------------------------------------------------------------
 
-======================
 MythicMobs
-======================
 
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/b22ac92f-2379-45cf-a34a-376b203601ce" />
 
@@ -120,7 +108,7 @@ Link:
 https://gleaks.pro/resources/mythicmobs-premium-version-the-1-custom-mob-creator.739/
 
 
-============================================================
+===========================================
 
-Free Premium Minecraft Plugins 2025
-============================================================
+Free Premium Minecraft Plugins 2026
+===========================================
