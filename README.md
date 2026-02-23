@@ -1,4 +1,4 @@
-# PERMIUM MINECRAFT PLUGINS FOR FREE
+# Free Premium Minecraft Plugins
 Free Minecraft Plugins 2025
 
 - [Itemsadder](https://gleaks.pro/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.11/) Version: Always latest (4.0.10-hotfix-1)
